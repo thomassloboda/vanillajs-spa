@@ -1,0 +1,28 @@
+article {
+    max-height: calc(100vh - 127px);
+    width: calc(100vw - 60px);
+    position: fixed;
+    top: 77px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 0px 10px 10px rgba(200, 150, 102, 1);
+    background-color: rgba(255, 255, 255, 0.6);
+    color: #fff;
+}
+
+h2#post-title {
+    margin-bottom: 1rem;
+    color: #2d545e;
+}
+
+#post-body {
+    color: rgba(18, 52, 59, .8);
+}
+
+article #post-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    color: #e1b382;
+}

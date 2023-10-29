@@ -1,0 +1,20 @@
+{
+  "name": "vanillajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["vanilla", "javascript", "spa"],
+  "author": {
+    "name": "Thomas SLOBODA",
+    "email": "thomas@sloboda.fr",
+    "url": "https://thomas.sloboda.fr/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomassloboda/vanillajs-spa.git"
+  },
+  "license": "ISC"
+}

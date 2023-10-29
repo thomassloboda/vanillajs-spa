@@ -1,0 +1,16 @@
+article {
+    height: calc(100vh - 127px);
+    width: calc(100vw - 60px);
+    position: fixed;
+    top: 77px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 0px 10px 10px rgba(200, 150, 102, 1);
+    background-color: #e1b382;
+    color: #fff;
+}
+
+article #home h2 {
+    margin-bottom: 1rem;
+
+}

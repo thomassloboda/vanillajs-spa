@@ -1,0 +1,4 @@
+#post-list {
+    max-height: 78vh;
+    overflow: auto;
+}

@@ -1,0 +1,27 @@
+article {
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 5px 5px rgba(18, 52, 59, .1);
+    margin-bottom: 1em;
+    padding: .5em;
+}
+
+article:hover {
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+article #post-title {
+    color: #2d545e;
+}
+
+article #post-body {
+    color: rgba(18, 52, 59, .8);
+}
+
+article #post-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    color: rgba(18, 52, 59, .5);
+}
